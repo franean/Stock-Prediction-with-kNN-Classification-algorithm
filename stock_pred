@@ -50,3 +50,4 @@ plt.legend()
 plt.show()
 
 #from the above graph you can find the optimum value of k
+# I got bout 56% accuracy with k=63 for SPY
